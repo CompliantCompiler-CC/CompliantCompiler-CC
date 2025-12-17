@@ -1,5 +1,5 @@
 #### **CompliantCompiler CC.**
-### **Copylefter, Compiler, Compliant.**
+##### **Copylefter, Compiler, Compliant.**
 ```cpp
 #include <identity>
 int main() {
